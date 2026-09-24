@@ -22,7 +22,7 @@
 
 ## `> whoami`
 
-Actualmente estoy formándome en **Tecnología de Análisis de Datos Informáticos** y, al mismo tiempo, voy construyendo experiencia mediante proyectos académicos y laborales.
+Actualmente estoy formándome en **Tecnología en Desarrollo de Sistemas Informáticos** y, al mismo tiempo, voy construyendo experiencia mediante proyectos académicos y laborales.
 
 Me gusta aprender **haciendo**. Por eso, a medida que avanzo, he trabajado con diferentes partes del desarrollo: desde interfaces y lógica de programación hasta bases de datos, servicios, APIs y aplicaciones desarrolladas con herramientas de distintos entornos.
 
