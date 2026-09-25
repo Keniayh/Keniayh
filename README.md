@@ -35,12 +35,12 @@ Aprendo haciendo: a medida que avanzo he trabajado con distintas partes del desa
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"><br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
 </td>
 <td valign="top">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"><br>
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </td>
 <td valign="top">
@@ -48,14 +48,15 @@ Aprendo haciendo: a medida que avanzo he trabajado con distintas partes del desa
   <img src="https://img.shields.io/badge/GeneXus-222222?style=flat-square"><br>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/APIs%20REST%2FSOAP-4B5563?style=flat-square">
+  <img src="https://img.shields.io/badge/APIs-4B5563?style=flat-square">
 </td>
 <td valign="top">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"><br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </td>
 </tr>
 </table>
@@ -84,25 +85,24 @@ Tengo un portafolio web donde reúno mi perfil, experiencia, formación, tecnolo
 
 <img src="https://streak-stats.demolab.com?user=Keniayh&hide_border=true&ring=C77DFF&fire=FF8FE3&currStreakLabel=C77DFF&background=0D1117" alt="Racha de GitHub">
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keniayh&bg_color=0D1117&color=C77DFF&line=FF8FE3&point=ffffff&hide_border=true" width="100%" alt="Gráfica de actividad">
+
 </div>
 
 <br>
 
 ## Proyectos
 
-| Proyecto | Enfoque |
-|---|---|
-| Proyectos Python | Programación y lógica |
-| Proyectos Java | POO y desarrollo de aplicaciones |
-| Proyectos HTML / CSS | Desarrollo web |
-| Proyectos React | Interfaces y componentes |
-| Proyectos JavaScript | Lógica e interacción |
-| Proyectos SQL / MySQL | Bases de datos y consultas |
-| Laravel / Spring Boot | Desarrollo backend |
-| Trabajo con GeneXus | Desarrollo y mantenimiento |
-| Proyectos colaborativos | Desarrollo en equipo |
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| **[Aplicación SpaceX](https://github.com/Keniayh/PROYECTO-FILTRO_JS_HernandezKenia-LatorreDaniel)** | Réplica de la página de SpaceX con consumo de una API y cuatro módulos (cohetes, misiones, historia, cápsulas). | `JavaScript` `API` |
+| **[Plataforma Kario Media](https://github.com/juandariver9/PROYECTO-FILTRO_RiveroJuan_HernandezKenia)** | FrontEnd de una plataforma web de consulta, con interfaz responsiva. | `HTML` `CSS` |
+| **[Min Ambiente BD](https://github.com/Keniayh/Proyecto_BBDD_HernandezKenia-CeballosKenneth)** | Base de datos para gestionar información de parques naturales por departamento. | `Base de datos` |
+| **[PrestService](https://github.com/Ospina115/Examen-SpringBoot-Final)** | Gestión de servicios y seguridad de usuarios con JWT. | `Java` `Spring Boot` `JWT` |
 
-Mis repositorios reúnen tanto ejercicios de aprendizaje como proyectos realizados durante mi formación y experiencia; este perfil irá creciendo junto con lo que voy aprendiendo.
+Puedes ver el detalle de cada uno en mi **[portafolio](https://Keniayh.github.io)**.
 
 <br>
 
