@@ -97,6 +97,8 @@ Tengo un portafolio web donde reúno mi perfil, experiencia, formación, tecnolo
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
+| **[Monü](https://monuky.netlify.app/)** | App de finanzas personales: anotas un gasto escribiéndolo y ves cuánto te queda del mes. Funciona sin conexión (SQLite) y usa Supabase para el inicio de sesión y las copias de respaldo. | `React Native` `Expo` `SQLite` `Supabase` |
+| **[Yüito](https://keniayh.github.io/by-yuito/)** | Tienda web de mi marca de crochet: catálogo con filtros, pedidos por WhatsApp y panel privado para administrarlo. ([repositorio](https://github.com/Keniayh/by-yuito)) | `HTML` `CSS` `JavaScript` `Supabase` |
 | **[Aplicación SpaceX](https://github.com/Keniayh/PROYECTO-FILTRO_JS_HernandezKenia-LatorreDaniel)** | Réplica de la página de SpaceX con consumo de una API y cuatro módulos (cohetes, misiones, historia, cápsulas). | `JavaScript` `API` |
 | **[Plataforma Kario Media](https://github.com/juandariver9/PROYECTO-FILTRO_RiveroJuan_HernandezKenia)** | FrontEnd de una plataforma web de consulta, con interfaz responsiva. | `HTML` `CSS` |
 | **[Min Ambiente BD](https://github.com/Keniayh/Proyecto_BBDD_HernandezKenia-CeballosKenneth)** | Base de datos para gestionar información de parques naturales por departamento. | `Base de datos` |
